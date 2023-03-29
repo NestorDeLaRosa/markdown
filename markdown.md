@@ -166,14 +166,14 @@ eat: it was a [hobbit-hole][1], and that means comfort.
 >## Imagenes ## 
  #
  Para agregar una imagen, agregue un signo de exclamación ( !), seguido del texto alternativo entre paréntesis y la ruta o URL del recurso de imagen entre paréntesis. Opcionalmente, puede agregar un título entre comillas después de la ruta o URL  
- ![The San Juan Mountains are beautiful!](https://thumbs.dreamstime.com/b/fondo-del-paisaje-de-la-primavera-cielo-soleado-floreciente-y-azul-137319824.jpg)  
+ ![The San Juan Mountains are beautiful!](https://images2.alphacoders.com/941/thumb-1920-941898.jpg)  
  Como podemos ver aqui llamamos una imagen pero usando una URL
  #
  >## Vinculación de Imágenes ##
 #
 Para agregar un enlace a una imagen, encierre el Markdown de la imagen entre paréntesis y luego agregue el enlace entre paréntesis. 
 
- ![Intentando buscar la imagen](https://i.pinimg.com/736x/74/9a/cb/749acb8395409d44ad9ff743495eca1c.jpg "No encontramos lo que estabas buscando") 
+ ![Intentando buscar la imagen](https://usagif.com/wp-content/uploads/loading-11.gif "Cargando") 
  En este caso si pasas el maouse sobre la imagen te mostrara un texto.
  #
  >## Personajes que escapan ##
